@@ -34,8 +34,8 @@
 
 ### Built With
 
-- [![Java][java.js]][java-url]
-- [![Maven][java.js]][maven-url]
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+- ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
