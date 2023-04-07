@@ -25,7 +25,7 @@
 
 ## About The Project
 
-[![Prism Screenshot]](../n1-project/src/images/screenshot01.png)
+![Prism Screenshot](../n1-project/src/images/screenshot01.png)
 
     Project made for pratice of the Graphic Computing content seen in classroom;
     In this project i have used the Java OpenGL to draw an Pentagonal Prism using coordinates for each line;
