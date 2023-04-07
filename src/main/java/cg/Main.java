@@ -17,7 +17,7 @@ public class Main
         gc.addGLEventListener(jf);
         gc.setSize(350,350);
 
-        JFrame frame = new JFrame("JOGL FRAME");
+        JFrame frame = new JFrame("PENTAGON PRISM");
         frame.add(gc);
         frame.setSize(500, 400);
         frame.setVisible(true);
