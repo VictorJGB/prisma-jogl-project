@@ -25,11 +25,10 @@
 
 ## About The Project
 
-![screenshot01](https://user-images.githubusercontent.com/62398638/230676724-8b3208ca-45b6-44c0-bcab-94f12b867c9c.png)
+<center> ![screenshot01](https://user-images.githubusercontent.com/62398638/230676724-8b3208ca-45b6-44c0-bcab-94f12b867c9c.png) </center>
 
     Project made for pratice of the Graphic Computing content seen in classroom;
-    In this project i have used the Java OpenGL to draw a
-n Pentagonal Prism using coordinates for each line;
+    In this project i have used the Java OpenGL to draw an Pentagonal Prism using coordinates for each line;
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
